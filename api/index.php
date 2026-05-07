@@ -1,4 +1,5 @@
 <?php
+error_reporting(0);
 // 设置API路径
 define('API_URI', api_uri());
 // 设置中文歌词
